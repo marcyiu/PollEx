@@ -1,4 +1,4 @@
-# pollex
+# PollEx
 
 A new Flutter project.
 
